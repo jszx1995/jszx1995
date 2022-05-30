@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Suzhou, China
 - 🌱 I’m currently learning golang,jenkins,kubernetes
-- 💬 Ask me about :C,Python,RHEL,Centos,Ubuntu,SUSE,Shell,Regex,Grep,Go,Docker,Kubernetes,Elasticsearch,Kafka,Saltstack
+- 💬 Ask me about :C,Python,Go,Shell,RHEL,Centos,Ubuntu,SUSE,Docker,Kubernetes,Elasticsearch,Kafka,Saltstack
 - 📫 How to reach me: jszx1995@126.com or at my [blog](https://jszx1995.github.io)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jszx1995&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
